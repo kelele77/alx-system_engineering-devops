@@ -1,4 +1,4 @@
 #!/bin/bash
-pwd
+chmod u+X 0x00-shell_basics
 
 
